@@ -39,6 +39,7 @@ plt.show()
 
 ```
 ## Output
+![1](https://user-images.githubusercontent.com/118704873/214107210-3be11d70-6618-4b78-ba14-baebd6eee95a.png)
 
 
 ## Result
